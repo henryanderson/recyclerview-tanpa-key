@@ -1,0 +1,15 @@
+[
+
+ mTop(
+ kategori=Cakes,
+ sub=[mSub(id_menu=21, nama_menu=Banana Cake),
+      mSub(id_menu=22, nama_menu=Banana Milk),
+      mSub(id_menu=35, nama_menu=Americano)]),
+
+ mTop(
+ kategori=Coffee,
+ sub=[mSub(id_menu=21, nama_menu=Banana Cake),
+      mSub(id_menu=22, nama_menu=Banana Milk),
+      mSub(id_menu=35, nama_menu=Americano)])
+
+]
